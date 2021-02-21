@@ -5,4 +5,4 @@
  
 * First download all files.
 * In the next step, compile main.cpp by g++ -Wall -Werror main.cpp
-* Run file as ./a.out locations.txt
+* Run file as ./a.out -std=c++11 locations.txt
