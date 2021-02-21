@@ -4,5 +4,5 @@
  To execute this program, these are the steps:
  
 * First download all files.
-* In the next step, compile main.cpp by g++ -Wall -Werror main.cpp
-* Run file as ./a.out -std=c++11 locations.txt
+* In the next step, compile main.cpp by g++ -Wall -Werror -std=c++11 main.cpp
+* Run file as ./a.out locations.txt
